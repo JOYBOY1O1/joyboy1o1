@@ -4,7 +4,7 @@
   <img align="right" alt="coding-img" width ="400" src ="https://media1.tenor.com/m/eQlXwfXcQ4YAAAAC/anime-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboy1o1&label=Profile%20views&color=0e75b6&style=flat" alt="joyboy1o1" /> </p>
-- 🔭 I’m currently working on **self development**
+- 🔭 I’m currently working on *self development*
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -13,8 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JOYBOY1O1](https://github.com/JOYBOY1O1)
 
 - 📫 How to reach me **joyboy.jk@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Fd2mxbyKdoZhT7oJCddYFkAnXfezvXr/view?usp=sharing](https://drive.google.com/file/d/15Fd2mxbyKdoZhT7oJCddYFkAnXfezvXr/view?usp=sharing)
 
 - ⚡ Hobbies **Competitive Gamer , Anime Enthusiast**
 
