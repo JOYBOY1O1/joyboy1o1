@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Joy khulbe</h1>
 <h3 align="center">The goal of Computer Science is to build something that will last at least until we've finished building it.</h3>
 
-<img align="right" alt="coding-img" width ="400" src ="[https://c.tenor.com/exuPwTTU-FwAAAAC/tenor.gif](https://tenor.com/view/anime-computer-pc-playing-gaming-gif-8674130)">
+<img align="right" alt="coding-img" width ="400" src ="![umaru](https://github.com/JOYBOY1O1/joyboy1o1/assets/97195469/05265f7c-2cd5-417b-9e8b-93c0a7775881)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboy1o1&label=Profile%20views&color=0e75b6&style=flat" alt="joyboy1o1" /> </p>
 - 🔭 I’m currently working on **self development**
