@@ -2,7 +2,7 @@
 <h3 align="center">The goal of Computer Science is to build something that will last at least until we've finished building it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboy1o1&label=Profile%20views&color=0e75b6&style=flat" alt="joyboy1o1" /> </p>
-
+<div class="tenor-gif-embed" data-postid="8674130" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/anime-computer-pc-playing-gaming-gif-8674130">Anime Computer GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 🔭 I’m currently working on **self development**
 
 - 🌱 I’m currently learning **MERN STACK**
