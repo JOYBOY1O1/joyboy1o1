@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Joy here</h1>
+<h1 align="center">Hi👋, Joy here</h1>
 <h3 align="center">The goal of Computer Science is to build something that will last at least until we've finished building it.</h3>
 
   <img align="right" alt="coding-img" width ="400" src ="https://media1.tenor.com/m/eQlXwfXcQ4YAAAAC/anime-computer.gif">
