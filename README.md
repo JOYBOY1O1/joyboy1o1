@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JOYBOY1O1](https://github.com/JOYBOY1O1)
 
-- 📫 How to reach me **joyboy.jk@gmail.com**
+- 📫 How to reach me **joy.jk2001@gmail.com**
 
 - ⚡ Hobbies **Competitive Gamer , Anime Enthusiast**
 
