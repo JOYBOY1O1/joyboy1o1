@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboy1o1&label=Profile%20views&color=0e75b6&style=flat" alt="joyboy1o1" /> </p>
 - 🔭 I’m currently working on *self development*
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently working on **FLUTTER**
 
-- 👯 I’m looking to collaborate on **MERN STACK PROJECTS**
+- 👯 I’m looking to collaborate on **FLUTTER PROJECTS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JOYBOY1O1](https://github.com/JOYBOY1O1)
 
