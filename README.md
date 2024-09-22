@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyboy1o1&label=Profile%20views&color=0e75b6&style=flat" alt="joyboy1o1" /> </p>
 - 🔭 I’m currently working on *self development*
 
-- 🌱 I’m currently working on **FLUTTER**
+- 🌱 I’m currently ussing **FLUTTER**
 
 - 👯 I’m looking to collaborate on **FLUTTER PROJECTS**
 
